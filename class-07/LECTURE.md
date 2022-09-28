@@ -1,6 +1,12 @@
 # Bearer Auth
 
-See relevant info: Available in the [class README](README).
+See relevant info: Available in the [class README](README.md).
+
+## Warm Up
+
+Practice. Practice. Practice. This should take a minute or 3 tops.
+- [Linked List Traversal Practice](https://replit.com/@rkgallaway/liinkedlist-traversal#index.js)
+- [Linked List Traversal Solution](https://replit.com/@rkgallaway/liinkedlist-traversal-solution#index.js)
 
 ## Code Review
 
